@@ -2,4 +2,4 @@
 Schedule For Myself
 
 
-* [x]舒服哈
+- [x] 已完成事项
